@@ -44,7 +44,6 @@
 (def switch (r/adapt-react-class rn/Switch))
 (def sys-trace (r/adapt-react-class rn/Systrace))
 (def refresh-control (r/adapt-react-class rn/RefreshControl))
-(def status-bar (r/adapt-react-class rn/StatusBar))
 (def style-sheet (r/adapt-react-class rn/StyleSheet))
 (def text (r/adapt-react-class rn/Text))
 (def text-input (r/adapt-react-class rn/TextInput))
